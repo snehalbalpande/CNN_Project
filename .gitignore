@@ -138,3 +138,4 @@ artifacts/training/model.h5
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-20-22-59-50/validation/events.out.tfevents.1666325296.DESKTOP-1CSL7NG.10328.1.v2
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-20-22-59-50/train/events.out.tfevents.1666286999.DESKTOP-1CSL7NG.10328.0.v2
 artifacts/prepare_callbacks/checkpoint_dir/model.h5
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-21-16-05-40/train/events.out.tfevents.1666348544.DESKTOP-1CSL7NG.12584.0.v2
