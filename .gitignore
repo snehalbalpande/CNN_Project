@@ -140,3 +140,6 @@ artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-20-22-59-50/t
 artifacts/prepare_callbacks/checkpoint_dir/model.h5
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-21-16-05-40/train/events.out.tfevents.1666348544.DESKTOP-1CSL7NG.12584.0.v2
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-21-17-18-36/train/events.out.tfevents.1666352920.DESKTOP-1CSL7NG.11000.0.v2
+artifacts/.gitignore
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-21-17-18-36/validation/events.out.tfevents.1666360583.DESKTOP-1CSL7NG.11000.1.v2
+
